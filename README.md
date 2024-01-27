@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android and Website**
 
-- 📫 How to reach me **daffaputrasetyatama**
+- 📫 How to reach me **daffaputrasetyatama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
