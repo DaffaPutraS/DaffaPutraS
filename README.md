@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffaputras&label=Profile%20views&color=0e75b6&style=flat" alt="daffaputras" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://daffaputras.github.io/](https://daffaputras.github.io/)
 
