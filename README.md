@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daffa Putra Setyatama</h1>
 <h3 align="center">A Software Engineer & Web Developer</h3>
 
@@ -6,8 +5,6 @@
 
 
 - 👨‍💻 All of my projects are available at [https://daffaputras.github.io/](https://daffaputras.github.io/)
-
-- 💬 Ask me about **Android and Website**
 
 - 📫 How to reach me **daffaputrasetyatama@gmail.com**
 
