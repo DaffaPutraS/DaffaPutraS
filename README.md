@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffaputras&label=Profile%20views&color=0e75b6&style=flat" alt="daffaputras" /> </p>
 
 
-- 👨‍💻 Portfolio [https://daffaputras.github.io/](https://daffaputra.vercel.app)
+- 👨‍💻 Portfolio [https://daffaputra.vercel.app](https://daffaputra.vercel.app)
 
 - 📫 How to reach me **daffaputrasetyatama@gmail.com**
 
