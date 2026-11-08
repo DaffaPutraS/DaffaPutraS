@@ -26,22 +26,37 @@ This GitHub brings together my applications, experiments, and learning projects.
 
 ## Technologies & tools
 
-<p><strong>Languages & mobile</strong></p>
+<p><strong>Languages</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,php,kotlin,java,py,androidstudio&amp;theme=dark" alt="JavaScript, PHP, Kotlin, Java, Python, Android Studio" height="44">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,py&amp;theme=dark" alt="JavaScript, TypeScript, PHP, Java, Python" height="44">
 </p>
 
-<p><strong>Web development</strong></p>
+<p><strong>Mobile development</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,laravel,bootstrap,tailwind,sass&amp;theme=dark" alt="HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Sass" height="44">
+  <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio&amp;theme=dark" alt="Dart, Kotlin, Flutter, Android Studio" height="44">
 </p>
 
-<p><strong>Databases & cloud</strong></p>
+<p><strong>Web frameworks</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,laravel&amp;theme=dark" alt="React, Vue, Next.js, Astro, Laravel" height="44">
+</p>
+
+<p><strong>Markup &amp; styling</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass&amp;theme=dark" alt="HTML, CSS, Bootstrap, Tailwind CSS, Sass" height="44">
+</p>
+
+<p><strong>Runtime &amp; build tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,vite&amp;theme=dark" alt="Node.js, Vite" height="44">
+</p>
+
+<p><strong>Databases &amp; cloud</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,gcp&amp;theme=dark" alt="MySQL, SQLite, Firebase, Google Cloud" height="44">
 </p>
 
-<p><strong>Development & design</strong></p>
+<p><strong>Development &amp; design</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,jenkins,figma,ai,ps&amp;theme=dark" alt="Git, Jenkins, Figma, Adobe Illustrator, Adobe Photoshop" height="44">
 </p>
@@ -84,3 +99,4 @@ Have a project in mind? Let's talk.
 </p>
 
 </details>
+
