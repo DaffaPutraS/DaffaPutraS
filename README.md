@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Web development, Android applications, and practical software projects.
+  Web development, Mobile applications, and practical software projects.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About
 
-I'm Daffa, a software engineer and full stack developer working across web and Android development. My projects include a Laravel library management system and Kotlin Android applications.
+I'm Daffa, a software engineer and full stack developer working across web and Mobile development. My projects include a Laravel library management system and Mobile applications.
 
 This GitHub brings together my applications, experiments, and learning projects. Visit my [portfolio](https://daffaputra.vercel.app) for more.
 
