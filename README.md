@@ -22,40 +22,51 @@
 
 I'm Daffa, a software engineer and full stack developer working across web and Android development. My projects include a Laravel library management system and Kotlin Android applications.
 
-This GitHub brings together my applications, experiments, and learning projects. Explore a selection below, or visit my [portfolio](https://daffaputra.vercel.app) for more.
-
-## Selected projects
-
-### [Library Management System](https://github.com/DaffaPutraS/library-app)
-
-A web application for managing books, categories, users, and loans, with separate access for administrators, librarians, and members.
-
-**Built with:** Laravel · PHP · MySQL · Bootstrap
-
-### [Dicoding Event App](https://github.com/DaffaPutraS/AppDicodingEvent)
-
-An Android project for Dicoding events, built with Kotlin and Android Jetpack components, with Retrofit for networking and Room for local storage.
-
-**Built with:** Kotlin · Android · Retrofit · Room
-
-[Explore all repositories →](https://github.com/DaffaPutraS?tab=repositories)
+This GitHub brings together my applications, experiments, and learning projects. Visit my [portfolio](https://daffaputra.vercel.app) for more.
 
 ## Technologies & tools
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | JavaScript, PHP, Kotlin, Java, Python |
-| Web | HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Sass |
-| Mobile | Android |
-| Data & cloud | MySQL, SQLite, Firebase, Google Cloud |
-| Development | Git, Jenkins |
-| Design | Figma, Adobe Illustrator, Adobe Photoshop |
+<p><strong>Languages & mobile</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,kotlin,java,py,androidstudio&amp;theme=dark" alt="JavaScript, PHP, Kotlin, Java, Python, Android Studio" height="44">
+</p>
+
+<p><strong>Web development</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,laravel,bootstrap,tailwind,sass&amp;theme=dark" alt="HTML, CSS, Laravel, Bootstrap, Tailwind CSS, Sass" height="44">
+</p>
+
+<p><strong>Databases & cloud</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,gcp&amp;theme=dark" alt="MySQL, SQLite, Firebase, Google Cloud" height="44">
+</p>
+
+<p><strong>Development & design</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,figma,ai,ps&amp;theme=dark" alt="Git, Jenkins, Figma, Adobe Illustrator, Adobe Photoshop" height="44">
+</p>
+
+<br>
 
 ## Connect
 
-For project inquiries or professional conversations, reach me at [daffaputrasetyatama@gmail.com](mailto:daffaputrasetyatama@gmail.com).
+Have a project in mind? Let's talk.
 
-[LinkedIn](https://www.linkedin.com/in/daffa-putra-setyatama/) · [Instagram](https://www.instagram.com/daffaputrra/) · [YouTube](https://www.youtube.com/@daffaputrasetyatama) · [Facebook](https://www.facebook.com/Daffaps15)
+<p>
+  <a href="mailto:daffaputrasetyatama@gmail.com"><img src="https://img.shields.io/badge/Email_me-2563EB?style=for-the-badge" alt="Email Daffa" height="32"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/daffa-putra-setyatama/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge" alt="Connect on LinkedIn" height="32"></a>
+</p>
+
+[daffaputrasetyatama@gmail.com](mailto:daffaputrasetyatama@gmail.com)
+
+<p>
+  <a href="https://www.instagram.com/daffaputrra/"><img src="https://img.shields.io/badge/Instagram-334155?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" height="24"></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@daffaputrasetyatama"><img src="https://img.shields.io/badge/YouTube-334155?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube" height="24"></a>
+  &nbsp;
+  <a href="https://www.facebook.com/Daffaps15"><img src="https://img.shields.io/badge/Facebook-334155?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" height="24"></a>
+</p>
 
 ---
 
