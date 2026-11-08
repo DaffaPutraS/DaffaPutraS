@@ -26,42 +26,36 @@ This GitHub brings together my applications, experiments, and learning projects.
 
 ## Technologies & tools
 
-<p><strong>Languages</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,py&amp;theme=dark" alt="JavaScript, TypeScript, PHP, Java, Python" height="44">
-</p>
-
-<p><strong>Mobile development</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio&amp;theme=dark" alt="Dart, Kotlin, Flutter, Android Studio" height="44">
-</p>
-
-<p><strong>Web frameworks</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,laravel&amp;theme=dark" alt="React, Vue, Next.js, Astro, Laravel" height="44">
-</p>
-
-<p><strong>Markup &amp; styling</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass&amp;theme=dark" alt="HTML, CSS, Bootstrap, Tailwind CSS, Sass" height="44">
-</p>
-
-<p><strong>Runtime &amp; build tools</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,vite&amp;theme=dark" alt="Node.js, Vite" height="44">
-</p>
-
-<p><strong>Databases &amp; cloud</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,gcp&amp;theme=dark" alt="MySQL, SQLite, Firebase, Google Cloud" height="44">
-</p>
-
-<p><strong>Development &amp; design</strong></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,jenkins,figma,ai,ps&amp;theme=dark" alt="Git, Jenkins, Figma, Adobe Illustrator, Adobe Photoshop" height="44">
-</p>
-
-<br>
+<table>
+  <tr>
+    <td><sub><strong>Languages</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,php,java,py&amp;theme=dark" alt="JavaScript, TypeScript, PHP, Java, Python" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Mobile development</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio&amp;theme=dark" alt="Dart, Kotlin, Flutter, Android Studio" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Web frameworks</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,laravel&amp;theme=dark" alt="React, Vue, Next.js, Astro, Laravel" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Markup &amp; styling</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass&amp;theme=dark" alt="HTML, CSS, Bootstrap, Tailwind CSS, Sass" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Runtime &amp; build tools</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,vite&amp;theme=dark" alt="Node.js, Vite" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Databases &amp; cloud</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,gcp&amp;theme=dark" alt="MySQL, SQLite, Firebase, Google Cloud" height="28"></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Development &amp; design</strong></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git,jenkins,figma,ai,ps&amp;theme=dark" alt="Git, Jenkins, Figma, Adobe Illustrator, Adobe Photoshop" height="28"></td>
+  </tr>
+</table>
 
 ## Connect
 
